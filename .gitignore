@@ -10,3 +10,10 @@ dist/
 # uv / virtualenv
 .venv/
 uv.lock
+
+# Nix lock
+flake.lock
+
+# Nix build output
+result
+result-*
